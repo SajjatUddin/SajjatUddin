@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hey Guys! I'm Sajjad, I'm an AI developer.
 
-<img src = "https://raw.githubusercontent.com/SajjatUddin/SajjatUddin/master/readme_resources/Banner.png">
+<img src = "https://raw.githubusercontent.com/SajjatUddin/SajjatUddin/master/images/AI-banner.jpg">
 
 ## About me
 I like learning new things.
