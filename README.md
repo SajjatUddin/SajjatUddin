@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Web Development
+### - 🔭 I’m currently working on ... Web Development
 - 🌱 I’m currently learning ... Data Science
 - 👯 I’m looking to collaborate on ... Machine Learning Project
 - 🤔 I’m looking for help with ... Expert Opinion
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 I like learning new things.
 <br>
 <br>
-I'm an undergrad student with interests in Artificial Intelligence, Data Science Machine Learning, Deep learning.
+I'm an undergrad student with interests in Artificial Intelligence, Data Science, Machine Learning & Deep learning.
 <br>
 
 
