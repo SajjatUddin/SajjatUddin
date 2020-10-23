@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-# Hey Guys! I'm Sajjad, I'm an AI developer.
+# Hey Guys! I'm Sajjad, I'm an Web developer.
 
 <img src = "https://github.com/SajjatUddin/SajjatUddin/blob/main/images/AI-banner.jpg">
 
