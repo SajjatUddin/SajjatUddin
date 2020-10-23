@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-### - 🔭 I’m currently working on ... Web Development
+- 🔭 I’m currently working on ... Web Development
 - 🌱 I’m currently learning ... Data Science
 - 👯 I’m looking to collaborate on ... Machine Learning Project
 - 🤔 I’m looking for help with ... Expert Opinion
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-# Hey Guys! I'm Sajjad, I'm an Web developer.
+# Hey Guys! I'm Sajjad, I'm a Web developer.
 
 <img src = "https://github.com/SajjatUddin/SajjatUddin/blob/main/images/AI-banner.jpg">
 
