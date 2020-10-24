@@ -46,4 +46,4 @@ I'm an undergrad student with interests in Artificial Intelligence, Data Science
 <br>
 [LinkedIn](https://www.linkedin.com/in/md-sajjad-uddin-12861ba8/)
 <br>
-[E-mail](Sajjatuddin@gmail.com)
+[E-mail](mailto:Sajjatuddin@gmail.com)
